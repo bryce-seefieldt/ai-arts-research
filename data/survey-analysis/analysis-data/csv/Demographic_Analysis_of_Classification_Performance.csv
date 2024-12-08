@@ -1,0 +1,9 @@
+Age_Range,Industry,Creative_Artist_Status,Total_Correct,Accuracy_Percentage
+19 to 25,IT,No,9.0,75.0
+19 to 25,Software,No,10.0,83.33333333333334
+19 to 25,Web/Software Development,No,9.0,75.0
+26 to 39,Game Development,Yes,11.0,91.66666666666666
+26 to 39,Software Develepment,No,10.0,83.33333333333334
+39 to 50,"Graphic, web and sound design.",Yes,7.0,58.333333333333336
+39 to 50,illustration,Yes,8.0,66.66666666666666
+Under 18,Student,Yes,11.0,91.66666666666666

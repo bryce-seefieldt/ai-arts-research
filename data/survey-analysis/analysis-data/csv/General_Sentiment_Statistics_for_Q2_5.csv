@@ -1,0 +1,6 @@
+Specific Industry,General Industry,Creative Artist Status,Sentiment Polarity,Sentiment Subjectivity
+Game Development,Art & Design,Yes,0.41666666666666663,0.75
+IT,Technology,No,0.8,0.75
+Software,Technology,No,-0.05,0.1
+Web/Software Development,Technology,No,-0.1662087912087912,0.3648351648351648
+illustration,Art & Design,Yes,-0.25,0.8888888888888888

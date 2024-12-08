@@ -1,0 +1,13 @@
+,Rationale Type,Frequency
+0,Gut instinct or personal impression (E.g. A subjective sense that the work feels either human-made or machine-generated based on overall appearance.),44
+1,"Smoothness or perfection of features (E.g. Overly polished surfaces, perfect symmetry, or uniform lighting.)",32
+2,Familiarity with similar styles or techniques (E.g. A style that resembles AI outputs or a particular human art movement.),28
+3,"Complexity or detail in the composition (E.g. Elaborate brushstrokes, intricate textures, or layers of meaning.)",25
+4,"Unnatural or inconsistent details (E.g. Extra limbs, odd textures, or distorted features.)",22
+5,"Perceived artistic intention or emotion (E.g. Deep storytelling, personal expression, or intentional imperfections.)",21
+6,"Presence of technical flaws or glitches (E.g. Artifacts, blending issues, or missing elements.)",18
+7,"Too smooth, if not ai over edited ",1
+8,N/A,1
+9,2,1
+10,No,1
+11,Yes,1

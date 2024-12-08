@@ -11,6 +11,9 @@
 *.cb
 *.cb2
 .*.lb
+## Zone Identifiers
+*:shield
+*:Zone.Identifier
 
 ## Intermediate documents:
 *.dvi

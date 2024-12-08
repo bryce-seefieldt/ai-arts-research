@@ -1,0 +1,6 @@
+Accuracy (%),Age Range,Specific Industry,General Industry,Creative Artist Status,Sentiment Polarity,Sentiment Subjectivity
+66.66666666666666,39 - 50,illustration,Art & Design,Yes,0.0,0.0
+75.0,19 - 25,IT,Technology,No,0.5,0.5
+75.0,19 - 25,Web/Software Development,Technology,No,0.028571428571428574,0.36190476190476195
+83.33333333333334,19 - 25,Software,Technology,No,0.0,0.0
+91.66666666666666,26 - 39,Game Development,Art & Design,Yes,0.06818181818181818,0.4772727272727273
