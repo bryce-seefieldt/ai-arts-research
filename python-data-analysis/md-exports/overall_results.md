@@ -1,0 +1,3 @@
+|   Total Correct |   Total Incorrect |   Percentage Correct |   Total AI Correct |   % AI Correct |   Total Human Correct |   % Human Correct |
+|----------------:|------------------:|---------------------:|-------------------:|---------------:|----------------------:|------------------:|
+|             101 |                31 |              76.5152 |                 58 |        87.8788 |                    43 |           65.1515 |

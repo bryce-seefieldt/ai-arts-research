@@ -1,0 +1,12 @@
+particpantId,What is your age range?,What industry do you work in?,What is your job title?,Do you consider yourself a creative artist?
+1.0,39 - 50,illustration,owner,Yes
+2.0,26 - 39,Game Development,Game Designer,Yes
+3.0,19 - 25,Software,Software Engineer,No
+4.0,19 - 25,Web/Software Development,N/a,No
+5.0,19 - 25,IT,Implementation Specialist,No
+6.0,19 - 25,,,No
+7.0,26 - 39,Software Develepment,Software Developer,No
+8.0,26 - 39,,,Yes
+9.0,< 18,Student,Student,Yes
+10.0,> 50,,Writer photographer ,Yes
+11.0,39 - 50,"Graphic, web and sound design.",Boss,Yes
